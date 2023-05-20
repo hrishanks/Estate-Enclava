@@ -8,7 +8,7 @@ const Fotter = () => {
       <div className="paddings innerwidth flexCenter f-container">
         {/* left side */}
         <div className="flexColStart f-left">
-          <img src="./images/logo2.png" alt="" width={120} />
+          <img src="./images/logo2.png" alt="" width={150} />
 
           <span className="secondaryText">
             Our Vision is to make all person <br />

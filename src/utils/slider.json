@@ -1,38 +1,38 @@
 [
   {
-    "name": "Aliva Priva Jardin",
-    "price": "47,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
+    "name": "The Estate House",
+    "price": "12500",
+    "detail": "Goa Vellha, South-Goa, Goa.",
     "image": "./images/r1.png"
   },
   {
-    "name": "Asatti Garden City",
+    "name": "Pato-Plaza",
     "price": "66,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+    "detail": "Near TriStar, Panjim, Goa.",
     "image": "./images/r2.png"
   },
   {
-    "name": "Citralan Puri Serang",
+    "name": "City View",
     "price": "35,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+    "detail": "Near Ravindia-Bhavan, Margao, Goa.",
     "image": "./images/r3.png"
   },
   {
-    "name": "Aliva Priva Jardin",
+    "name": "Land Breeze",
     "price": "47,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
-    "image": "./images/r1.png"
+    "detail": "Cancona, Goa.",
+    "image": "./images/r4.png"
   },
   {
-    "name": "Asatti Garden City",
+    "name": "The Ancestral house",
     "price": "66,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
-    "image": "./images/r2.png"
+    "detail": "Vasco-Da-Gama, Goa.",
+    "image": "./images/r5.png"
   },
   {
-    "name": "Citralan Puri Serang",
+    "name": "Man Prassan",
     "price": "35,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
-    "image": "./images/r3.png"
+    "detail": "Thorlabag, Queriem, Pernem, Goa.",
+    "image": "./images/r6.png"
   }
 ]
