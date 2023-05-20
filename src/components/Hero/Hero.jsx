@@ -2,7 +2,7 @@ import React from 'react'
 import './Hero.css'
 import {HiLocationMarker} from 'react-icons/hi'
 import CountUp from 'react-countup';
-
+import '/Users/hrishanksanjayshirodkar/Desktop/ReactJS/realestate/src/index.css'
 const Hero = () => {
   return (
     <section className="hero-wrapper">
