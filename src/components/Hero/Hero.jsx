@@ -5,7 +5,7 @@ import CountUp from 'react-countup';
 import {motion, spring} from 'framer-motion'
 const Hero = () => {
   return (
-    <section className="hero-wrapper">
+    <section className="hero-wrapper" id='Hero'>
       <div className="paddings innerWidth flexCenter hero-container">
         {/* Left Section */}
         <div className="flexColStart hero-left">

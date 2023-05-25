@@ -4,7 +4,7 @@ import { HiLocationMarker } from 'react-icons/hi'
 
 const Fotter = () => {
   return (
-    <section className="f-wrapper">
+    <section className="f-wrapper" id="Fotter">
       <div className="paddings innerwidth flexCenter f-container">
         {/* left side */}
         <div className="flexColStart f-left">

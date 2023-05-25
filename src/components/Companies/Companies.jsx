@@ -3,7 +3,7 @@ import './Companies.css'
 
 const Companies = () =>{
     return (
-    <section className="c-wrapper">
+    <section className="c-wrapper" id='Companies'>
             <div className="paddings innerWidth flexCenter c-container"> 
                 <img src="./images/prologis.png" alt="" /> 
                 <img src="./images/tower.png" alt="" />
