@@ -17,7 +17,7 @@ const Fotter = () => {
         </div>
         <div className="flexColStart f-right">
           <span className="primaryText">Hrishank Shirodkar</span>
-          <span className="secondaryText"><HiLocationMarker color="var(--blue)" size={20} />Goa, Indai. 403802</span>
+          <span className="secondaryText"><HiLocationMarker color="var(--blue)" size={20} />Goa, India. 403802</span>
           <div className="flexCenter f-menu">
             <span>Home</span> 
             <span>Services</span> 
